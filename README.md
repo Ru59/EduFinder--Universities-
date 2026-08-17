@@ -2,7 +2,7 @@
 
 ### University Finder for South African Grade 12 Learners
 
-Live App: https://edufinder-universitie-sa.netlify.app/
+Live App: https://edufinder-universities-sa.netlify.app/
 
 EduFinder helps SA learners find universities by APS score, province, fees, and NSFAS funding availability. Built to solve a real problem - many learners don't know where they qualify.
 
