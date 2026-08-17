@@ -1,16 +1,15 @@
 # EduFinder SA 🎓
 
-### University Finder for South African Grade 12 Learners
+### University/Colleges Finder for South African Grade 12 Learners
 
 Live App: https://edufinder-universities-sa.netlify.app/
 
-EduFinder helps SA learners find universities by APS score, province, fees, and NSFAS funding availability. Built to solve a real problem - many learners don't know where they qualify.
+EduFinder helps SA learners find universities by, province, and NSFAS funding availability. Built to solve a real problem - many learners don't know where they should apply.
 
 ### ✨ Features
-- Search by APS Score (23-45)
 - Filter by Province (All 9 provinces)
-- Filter by Fees & NSFAS availability
-- Real data for SA Universities (UCT, Wits, UJ, UP, Stellenbosch, etc.)
+- Filter by NSFAS availability
+- Real data for SA Universities/Colleges (UCT, Wits, Northlink,College of Cape Town, UP, Stellenbosch, etc.)
 - Mobile-friendly for learners
 
 ### 🛠️ Tech Stack
@@ -19,7 +18,7 @@ EduFinder helps SA learners find universities by APS score, province, fees, and 
 - Version Control: Git & GitHub
 
 ### 🚀 Why I Built This
-As an aspiring Software Developer from Cape Town, I wanted to build something that actually helps my community. Thousands of Grade 12s struggle to find where they qualify.
+As an aspiring Software Developer from Cape Town, I wanted to build something that actually helps my community. Thousands of Grade 12s struggle to find where they should apply.
 
 ### 👩🏽‍💻 About Me
 **Sisipho Ruth - Aspiring Software Developer | Cape Town**
@@ -29,6 +28,7 @@ As an aspiring Software Developer from Cape Town, I wanted to build something th
 
 ### 📬 Contact
 GitHub: @Ru59
+ruthsisipho@gmail.com 
 
 ---
 Built with ❤️ in Cape Town, 
